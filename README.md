@@ -1,6 +1,6 @@
 # Hi I'm Achint I like to code and design
-[![Achint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achintxv)](https://github.com/Achintxv/github-readme-stats)
-
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Achintxv"/>
+<img alt="Top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintxv"/>
 
 
 <!--
