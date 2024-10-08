@@ -1,4 +1,7 @@
 # Hi I'm Achint I like to code and design
+[![Achint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achintxv)](https://github.com/Achintxv/github-readme-stats)
+
+
 
 <!--
 **Achintxv/Achintxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
