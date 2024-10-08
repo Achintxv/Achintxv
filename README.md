@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi I'm Achint I like to code and design
 
 <!--
 **Achintxv/Achintxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
