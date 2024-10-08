@@ -1,5 +1,5 @@
 # 💫Hi I'm Achint I like to code and design
-🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br><br>💻 Programming Enthusiast: Skilled in Java, Python, MySQL and problem-solving tasks.<br><br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br><br>🌐 Web Development: Currently working on a society/event management website.<br><br>🔍 Internship Seeker: Actively applying for internshipss.<br><br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br> <br>
+🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br>💻 Programming Enthusiast: Skilled in Java, Python, MySQL and problem-solving tasks.<br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br>🌐 Web Development: Currently working on a society/event management website.<br>🔍 Internship Seeker: Actively applying for internshipss.<br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br>
 
 
 # 💻 Tech Stack:
@@ -11,6 +11,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Achintxv&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Achintxv&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Achintxv&icon=0&color=1)](https://visitcount.itsvg.in)-->
