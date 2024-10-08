@@ -1,6 +1,6 @@
 # Hi I'm Achint I like to code and design
-<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Achintxv"/>
-<img alt="Top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintxv"/>
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Achintxv&theme=transparent"/>
+<img alt="Top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintxv&theme=transparent"/>
 
 
 <!--
