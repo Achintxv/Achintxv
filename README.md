@@ -1,7 +1,6 @@
 # 💫Hi I'm Achint I like to code and design
 🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br>💻 Programming Enthusiast: Skilled in Java, Python, MySQL and problem-solving tasks.<br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br>🌐 Web Development: Currently working on a society website.<br>🔍 Internship Seeker: Actively applying for internshipss.<br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br>
-
-- 📫 How to reach me **achintberma@gmail.com**
+📫 How to reach me **achintberma@gmail.com**
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
