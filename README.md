@@ -1,9 +1,11 @@
 # 💫Hi I'm Achint I like to code and design
 🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br>💻 Programming Enthusiast: Skilled in Java, Python, MySQL and problem-solving tasks.<br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br>🌐 Web Development: Currently working on a society website.<br>🔍 Internship Seeker: Actively applying for internshipss.<br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br>
 
+- 📫 How to reach me **achintberma@gmail.com**
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Achintxv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintxv&theme=dark&hide_border=false&layout=compact)<br>
