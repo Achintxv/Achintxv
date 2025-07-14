@@ -1,5 +1,5 @@
 # 💫Hi I'm Achint I like to code and design
-🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br>💻 Programming Enthusiast: Skilled in Java, Python, MySQL and problem-solving tasks.<br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br>🌐 Web Development: Html, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, NextJs<br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br>
+🎓 College Student: Pursuing studies in computer science, with a knack for programming and tech.<br>💻 Programming Enthusiast: Skilled in Java, MySQL and problem-solving tasks.<br>🎨 UI/UX Designer: Passionate about graphic design, with experience in Figma.<br>🌐 Web Development: Html, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, NextJs<br>🧑‍🤝‍🧑 Society Member: Engaged in college society activities.<br>
 📫 How to reach me **achintberma@gmail.com**
 
 # 💻 Tech Stack:
